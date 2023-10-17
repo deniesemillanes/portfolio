@@ -112,12 +112,12 @@ body {
     border-color: #d55c5a;
 }
 
-.bg1 {
+/* .bg1 {
     background: url("./images/contact.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-}
+} */
 
 .img-cover {
     object-fit: cover;
@@ -133,6 +133,7 @@ body {
 .hero-title {
     letter-spacing: 2px;
     font-size: 4rem;
+
 }
 
 .hero-overview {
@@ -142,7 +143,7 @@ body {
 .portfolio-hero {
     background: url("./images/landing.jpg");
     background-size: cover;
-    background-position: center center;
+    background-position: top;
     background-repeat: no-repeat;
 }
 
